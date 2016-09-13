@@ -1,0 +1,21 @@
+.Imgur-header-wrap{
+  margin : 20px;
+}
+
+.imgur-images-wrap{
+  margin-botton: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.customHeaderDisplayClass{
+  padding-right: 100px;
+  text-align: right;
+}
+
+.imgur-images-wrap label {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+    
