@@ -22,7 +22,8 @@
     "resolve-url-loader": "^1.6.0",
     "style-loader": "^0.13.1",
     "url-loader": "^0.5.7",
-    "webpack": "^1.13.2"
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.14.0"
   },
   "dependencies": {
     "axios": "0.14.0",
