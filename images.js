@@ -28,7 +28,6 @@ export default React.createClass({
     var customHeaderDisplay =(
       <div className="jumbotron customHeaderDisplayClass">
         <h1>Imgur App </h1> 
-        <p>Project to obtain Yellow-belt in Full Stack Dojo</p> 
       </div>);
 
     var imagesDisplay = this.state.images.map(function(imageData) {

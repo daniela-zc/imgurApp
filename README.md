@@ -1,2 +1,5 @@
 # imgurApp
-Project to obtain Yellow-belt in Full Stack Dojo
+
+App created with webpack, React js and Bootstrap.
+
+Displays random images from Imgur  https://api.imgur.com 
